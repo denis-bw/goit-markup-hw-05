@@ -149,6 +149,10 @@ body{
     color: var(--barand-color);
 }
 
+.menu-list1 .active {
+    color: var(--barand-color);
+}
+
 .menu-link.current::after {
     content: '';
     position: absolute;
